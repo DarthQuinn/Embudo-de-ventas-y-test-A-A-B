@@ -3,10 +3,15 @@
 🚀 Sobre Este Proyecto
 "Los datos hablan, pero hay que saber escucharlos con rigor."
 Este proyecto demuestra competencias clave para roles de Data Analyst y Product Analyst:
+
 ✅ Pensamiento crítico: Cuestionar la validez de los datos antes de sacar conclusiones
+
 ✅ Rigor estadístico: No conformarse con p-values "casi significativos" — aplicar correcciones de Bonferroni
+
 ✅ Diseño experimental: Uso de controles duplicados (A/A) para detectar sesgos
+
 ✅ Orientación a negocio: Traducir números en acciones concretas de producto
+
 ✅ Honestidad analítica: Reportar resultados negativos con la misma claridad que los positivos
 
 
