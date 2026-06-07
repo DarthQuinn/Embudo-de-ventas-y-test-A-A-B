@@ -28,7 +28,7 @@ Este proyecto demuestra competencias clave para roles de Data Analyst y Product 
 
 
 
-> Análisis de Embudo de Conversión y Pruebas A/B en App Móvil
+#**Análisis de Embudo de Conversión y Pruebas A/B en App Móvil**
 
 
 Análisis de datos completo de comportamiento de usuarios en aplicación móvil — desde la exploración del embudo de conversión hasta pruebas A/A/A/B rigurosas para validar cambios de UI.
