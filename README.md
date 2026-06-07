@@ -28,7 +28,7 @@ Este proyecto demuestra competencias clave para roles de Data Analyst y Product 
 
 
 
-#**Análisis de Embudo de Conversión y Pruebas A/B en App Móvil**
+**Análisis de Embudo de Conversión y Pruebas A/B en App Móvil**
 
 
 Análisis de datos completo de comportamiento de usuarios en aplicación móvil — desde la exploración del embudo de conversión hasta pruebas A/A/A/B rigurosas para validar cambios de UI.
@@ -61,7 +61,7 @@ Hallazgo Crítico
 
 El 60.4% de los usuarios se pierden al pasar de la Página Principal a la Página de Ofertas. Esta es la etapa con mayor fuga del embudo y representa la oportunidad de mayor impacto para mejorar la retención.
 
-#📈 Resultados de las Pruebas Estadísticas
+📈 Resultados de las Pruebas Estadísticas
 
 1️⃣ Prueba A/A (Validación de Controles)
 | Métrica          | Valor                   | Interpretación                                  |
